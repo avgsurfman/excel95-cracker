@@ -92,7 +92,7 @@ int main(int argc, char *argv[])
 			break;
 		case '?':
 		case 'h':
-			std::cout<<"-h\tDisplay this help message\n -v\tVerbose output \n -e\tEncrypt \n -c \tCrack";
+			std::cout<<"\n-h\tDisplay this help message\n -v\tVerbose output \n -e\tEncrypt \n -c \tCrack";
 			break;
 		default :
 			std::cout<<"----------------------------------------" << "\n";
